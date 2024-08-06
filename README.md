@@ -15,4 +15,6 @@ This Project will focus on analyzing crime data in Los Angeles from 2020 to the 
 **Total number of features: 26**  
 **Total number of target variables: 2**  
 
+
+**More Information on results of how this code can be found in the attached .pptx file**
 </div>
